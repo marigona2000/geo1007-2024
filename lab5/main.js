@@ -10,6 +10,7 @@ let map = L.map('map-canvas', {
   }),
   layers: [],
   center: [52.010, 4.36744],
+  // center: [52.510, 4.86744],
   zoom: 9,
 
 });
